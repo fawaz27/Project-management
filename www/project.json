@@ -1,0 +1,13 @@
+{
+	"name":	"project",
+	"paths":	[{
+			"path":	"home",
+			"default":	true,
+			"component":	"home",
+			"menu":	{
+				"name":	"home",
+				"icon":	"fa fa-th-list",
+				"role":	"dev"
+			}
+		}]
+}
